@@ -19,7 +19,7 @@ public class phpTest {
 		  System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		  driver = new ChromeDriver();
 		  driver.manage().window().maximize();
-		  driver.get("http://35.184.106.5:32768/");
+		  driver.get("http://35.223.235.13:9999//");
 		  
 	  }
 		
